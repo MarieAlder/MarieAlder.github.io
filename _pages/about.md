@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in Economics at the European University Institute.
+I am a Ph.D. Candidate in Economics at the European University Institute. My supervisors are Alexander Monge-Naranjo and Giancarlo Corsetti.
