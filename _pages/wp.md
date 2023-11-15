@@ -1,10 +1,9 @@
 ---
 layout: archive
-title: "CV2"
-permalink: /cv2/
+title: "Working Papers"
+permalink: /wp/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-Working Papers
