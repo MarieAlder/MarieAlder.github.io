@@ -1,9 +1,0 @@
----
-layout: archive
-title: "Working Papers"
-permalink: /wp/
-author_profile: true
-redirect_from:
-  - /resume
----
-
