@@ -9,3 +9,5 @@ redirect_from:
 ---
 
 I am a Ph.D. Candidate in Economics at the European University Institute. My supervisors are Alexander Monge-Naranjo and Giancarlo Corsetti.
+
+My research interests are in Macroeconomics, Monetary Economics, International Economics and Development Economics.
