@@ -11,7 +11,7 @@ redirect_from:
 
 **Corporate debt structure and heterogeneous monetary policy transmission**
 
-* *with Nuno Coimbra and Urszula Szczerbowicz* *
+* * with Nuno Coimbra and Urszula Szczerbowicz * *
 
 [Coming soon]
 
