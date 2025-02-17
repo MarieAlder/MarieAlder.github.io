@@ -23,6 +23,6 @@ _Presented at EABCN Conference: New Challenges in Monetary Economics 2024 (poste
 
 ## Work in Progress
 
-**Bidding for the Environment: Allocation Independence in Cap-and-Trade Systems**
+**Bidding for the Environment: Free Allowances in Cap-and-Trade Systems**
 
 _with Benjamin Hattemer_
