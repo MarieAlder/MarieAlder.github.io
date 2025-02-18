@@ -25,4 +25,4 @@ _Presented at EABCN Conference: New Challenges in Monetary Economics 2024 (poste
 
 **Bidding for the Environment: Free Allowances in Cap-and-Trade Systems**
 
-_with Benjamin Hattemer_
+_with Eva Franzmeyer and Benjamin Hattemer_
