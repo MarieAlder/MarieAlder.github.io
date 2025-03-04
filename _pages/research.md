@@ -23,6 +23,6 @@ _Presented at EABCN Conference: New Challenges in Monetary Economics 2024 (poste
 
 ## Work in Progress
 
-**Bidding for the Environment: Free Allowances in Cap-and-Trade Systems**
+**From Free to Fee: How Allowance Allocation Affects ETS Performance**
 
 _with Eva Franzmeyer and Benjamin Hattemer_
