@@ -10,5 +10,4 @@ redirect_from:
 ## SSM Climate and Nature Risks Learning Path, European Central Bank
 
 - Instructor for the live class on Climate and Nature Risks
-
 - Instructor for the training on Green Bonds and the Sustainable Debt Market
