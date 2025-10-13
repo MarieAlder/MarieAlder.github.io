@@ -21,7 +21,7 @@ Using French firms’ balance sheet data, we show that corporate debt structure 
 
 _Presented at EABCN Conference: New Challenges in Monetary Economics 2024 (poster), JIE Summer School 2024 (poster), Workshop on New insights from financial statements 2024, 3rd XAmsterdam Macroeconomic Workshop._
 
-## Work in Progress
+
 
 **From Free to Fee: How Allowance Allocation Affects ETS Performance**
 
