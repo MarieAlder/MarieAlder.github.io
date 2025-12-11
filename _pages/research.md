@@ -34,6 +34,8 @@ _with Eva Franzmeyer and Benjamin Hattemer_
 
 This study provides causal firm-level estimates of the effect of a reduction in free emission allowances in emission trading systems on emissions and economic performance. We study an EU ETS reform that withdrew the right of some manufacturing firms to receive most emission allowances for free, exploiting this change in a difference in-differences setting. We find that paying for allowances decreased emissions by more than 11 percent overall, relative to firms that retained free allowances. This reduction was accompanied by a significant decrease in economic performance, including revenue, employment, and assets of a similar magnitude. Using a multi-product model, we show that our results can be rationalized through an extensive margin adjustment of firms.
 
+_Presented at Onzième Conférence Évaluation des Politiques Publiques_
+
 
 ## Work in Progress
 
