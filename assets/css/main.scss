@@ -46,12 +46,12 @@
 
 @media (min-width: 64em) {
   .sidebar {
-    width: 340px; /* ← increase photo column width */
+    width: 400px; /* ← increase photo column width */
   }
 
   .archive,
   .page__content {
-    width: calc(100% - 340px);
+    width: calc(100% - 405px);
   }
 }
 
