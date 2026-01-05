@@ -40,22 +40,30 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* Bigger photo sidebar (desktop) */
+/* About page: wider sidebar + bigger avatar */
 @media (min-width: 64em) {
-  .layout--single .sidebar,
-  .layout--single .sidebar.sticky {
-    width: 360px;
+  .about .page__inner-wrap {
+    display: flex;
+    align-items: flex-start;
   }
 
-  .layout--single .archive,
-  .layout--single .page__content {
-    width: calc(100% - 360px);
+  .about .sidebar,
+  .about .sidebar.sticky {
+    flex: 0 0 360px;
+    width: 360px;
+    max-width: 360px;
+  }
+
+  .about .archive,
+  .about .page__content {
+    flex: 1 1 auto;
+    width: auto;
+    min-width: 0;
   }
 }
 
-/* Bigger avatar image */
-.author__avatar img {
+.about .author__avatar img {
   width: 100%;
   height: auto;
-  max-width: 260px;
+  max-width: 280px;
 }
