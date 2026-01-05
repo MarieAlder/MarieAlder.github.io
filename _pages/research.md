@@ -3,6 +3,7 @@ layout: archive
 title: ""
 permalink: /research/
 author_profile: false
+sidebar: false
 redirect_from:
   - /resume
 ---
