@@ -39,23 +39,3 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-
-/* ===============================
-   Widen author profile sidebar
-   =============================== */
-
-@media (min-width: 64em) {
-  .sidebar {
-    width: 400px; /* ← increase photo column width */
-  }
-
-  .archive,
-  .page__content {
-    width: calc(100% - 405px);
-  }
-}
-
-.author__avatar img {
-  width: 100%;
-  height: auto;
-}
