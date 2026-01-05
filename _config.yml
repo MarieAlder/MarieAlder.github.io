@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Marie Alder"
-  avatar           : "/assets/images/profile.png"
+  avatar           : "profile.png"
   bio              : "Ph.D. Candidate in Economics at the EUI."
   location         : "Florence, Italy"
   employer         :
