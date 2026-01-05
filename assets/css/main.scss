@@ -39,3 +39,23 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Bigger photo sidebar (desktop) */
+@media (min-width: 64em) {
+  .layout--single .sidebar,
+  .layout--single .sidebar.sticky {
+    width: 360px;
+  }
+
+  .layout--single .archive,
+  .layout--single .page__content {
+    width: calc(100% - 360px);
+  }
+}
+
+/* Bigger avatar image */
+.author__avatar img {
+  width: 100%;
+  height: auto;
+  max-width: 260px;
+}
