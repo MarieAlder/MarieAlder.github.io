@@ -40,39 +40,30 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* About page: wider sidebar + bigger avatar */
+/* Only the welcome/About layout: set left column width */
 @media (min-width: 64em) {
-  body.about .sidebar,
-  body.about .sidebar.sticky {
-    flex: 0 0 360px !important;
-    width: 360px !important;
-    max-width: 360px !important;
+  .about-layout {
+    display: flex;
+    align-items: flex-start;
   }
 
-  body.about .archive,
-  body.about .page__content {
-    width: auto !important;
+  .about-layout .sidebar,
+  .about-layout .sidebar.sticky {
+    flex: 0 0 360px;
+    width: 360px;
+    max-width: 360px;
+  }
+
+  .about-layout .archive,
+  .about-layout .page__content {
+    flex: 1 1 auto;
     min-width: 0;
   }
 }
 
-body.about .author__avatar img {
+/* Optional: make the avatar bigger on the welcome/About layout */
+.about-layout .author__avatar img {
   width: 100%;
   height: auto;
   max-width: 280px;
-}
-
-@media (min-width: 64em) {
-  body.about .page__inner-wrap {
-    display: grid !important;
-    grid-template-columns: 360px 1fr !important;
-    column-gap: 2rem; /* optional */
-    align-items: start;
-  }
-
-  body.about .sidebar,
-  body.about .sidebar.sticky {
-    width: auto !important;   /* grid controls width */
-    max-width: none !important;
-  }
 }

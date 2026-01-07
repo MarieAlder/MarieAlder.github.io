@@ -1,10 +1,11 @@
 ---
 permalink: /
+layout: about
 title: ""
 excerpt: "About me"
 author_profile: true
 classes: about
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
