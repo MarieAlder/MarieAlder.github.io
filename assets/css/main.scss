@@ -39,32 +39,3 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-
-/* Only the welcome/About layout: set left column width */
-@media (min-width: 64em) {
-  body.about .initial-content,
-  .about-layout {
-    max-width: 1400px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-  .about-layout {
-    display: flex;
-    align-items: flex-start;
-  }
-
-  .about-layout .sidebar,
-  .about-layout .sidebar.sticky {
-    flex: 0 0 520px;
-    width: 520px;
-    max-width: 520px;
-  }
-
-  .about-layout .archive,
-  .about-layout .page__content {
-    flex: 1 1 auto;
-    min-width: 0;
-  }
-}
-
