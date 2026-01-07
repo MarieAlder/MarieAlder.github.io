@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Marie Alder"
+  name             : ""
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate in Economics at the EUI."
+  bio              : ""
   location         : "Florence, Italy"
   employer         :
   pubmed           : 
@@ -96,17 +96,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"MarieAlder"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         : marie-alder
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          :
