@@ -40,44 +40,31 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-/* =========================
-   Custom About page layout
-   ========================= */
-
-.about-container {
-  display: flex;
-  align-items: flex-start;
-  gap: 3rem;
-}
-
-/* Left column (photo area) */
-.about-sidebar {
-  width: 420px;        /* ← control LEFT size here */
-  flex-shrink: 0;
-}
-
-/* Right column (text) */
-.about-content {
-  flex: 1;
-  min-width: 0;
-}
-
-/* Make avatar fill sidebar nicely */
-.about-sidebar .author__avatar img {
-  width: 100%;
-  height: auto;
-  max-width: none;
-}
-
-/* Responsive: stack on mobile */
-@media (max-width: 64em) {
-  .about-container {
-    flex-direction: column;
+/* Only the welcome/About layout: set left column width */
+@media (min-width: 64em) {
+  body.about .initial-content,
+  .about-layout {
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
-  .about-sidebar {
-    width: 100%;
+  .about-layout {
+    display: flex;
+    align-items: flex-start;
+  }
+
+  .about-layout .sidebar,
+  .about-layout .sidebar.sticky {
+    flex: 0 0 420px;
+    width: 420px;
+    max-width: 420px;
+  }
+
+  .about-layout .archive,
+  .about-layout .page__content {
+    flex: 1 1 auto;
+    min-width: 0;
   }
 }
-
 
