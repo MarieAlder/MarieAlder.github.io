@@ -37,6 +37,7 @@ This study provides causal firm-level estimates of the effect of a reduction in 
 
 _Presented at Onzième Conférence Évaluation des Politiques Publiques_
 
+---
 
 ## Work in Progress
 
