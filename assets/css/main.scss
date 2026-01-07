@@ -61,3 +61,18 @@ body.about .author__avatar img {
   height: auto;
   max-width: 280px;
 }
+
+@media (min-width: 64em) {
+  body.about .page__inner-wrap {
+    display: grid !important;
+    grid-template-columns: 360px 1fr !important;
+    column-gap: 2rem; /* optional */
+    align-items: start;
+  }
+
+  body.about .sidebar,
+  body.about .sidebar.sticky {
+    width: auto !important;   /* grid controls width */
+    max-width: none !important;
+  }
+}
