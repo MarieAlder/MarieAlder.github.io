@@ -42,6 +42,13 @@
 
 /* Only the welcome/About layout: set left column width */
 @media (min-width: 64em) {
+  body.about .initial-content,
+  .about-layout {
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   .about-layout {
     display: flex;
     align-items: flex-start;
@@ -49,9 +56,9 @@
 
   .about-layout .sidebar,
   .about-layout .sidebar.sticky {
-    flex: 0 0 360px;
-    width: 360px;
-    max-width: 360px;
+    flex: 0 0 420px;
+    width: 420px;
+    max-width: 420px;
   }
 
   .about-layout .archive,
@@ -61,9 +68,3 @@
   }
 }
 
-/* Optional: make the avatar bigger on the welcome/About layout */
-.about-layout .author__avatar img {
-  width: 100%;
-  height: auto;
-  max-width: 280px;
-}
