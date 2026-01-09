@@ -3,7 +3,7 @@ permalink: /
 layout: about
 title: "Welcome!"
 excerpt: "About me"
-author_profile: false
+author_profile: true
 classes: about
 redirect_from:
   - /about/
