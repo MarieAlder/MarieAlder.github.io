@@ -53,3 +53,18 @@ h2 {
   color: #7fa694;          /* darker green on hover */
   text-decoration: underline;
 }
+
+/* Avatar inside page content (not sidebar) */
+.page__content .author__avatar {
+  float: right;           /* move to the right */
+  margin-left: 2rem;
+  margin-bottom: 1rem;
+  width: 260px;           /* control size */
+}
+
+.page__content .author__avatar img {
+  width: 100%;
+  max-width: none;
+  border: none;
+  border-radius: 0;
+}
