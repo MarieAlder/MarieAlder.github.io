@@ -43,3 +43,13 @@
 h2 {
   color: #598392;
 }
+
+.paper-links a {
+  color: #aec3b0;          /* light green */
+  font-weight: 500;
+}
+
+.paper-links a:hover {
+  color: #7fa694;          /* darker green on hover */
+  text-decoration: underline;
+}
