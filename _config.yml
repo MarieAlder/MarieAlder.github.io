@@ -309,10 +309,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-hr.divider-strong {
-  border: none;
-  height: 3px;
-  background-color: #000;
-  margin: 3rem 0;
-}

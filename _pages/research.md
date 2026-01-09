@@ -10,8 +10,6 @@ redirect_from:
 
 ## Working Papers
 
-<hr class="divider-strong">
-
 **Corporate Debt Structure and Heterogeneous Monetary Policy Transmission**
 
 _with Nuno Coimbra and Urszula Szczerbowicz_
@@ -56,10 +54,6 @@ _Presented at Onzième Conférence Évaluation des Politiques Publiques_
 
 ## Work in Progress
 
-<hr class="divider-strong">
-
 **Firm Dynamics in Europe: Insights into Growth, Financial Distress, and Exit Risks**
 
 _with Susana Parraga Rodriguez and Ralph Setzer_
-
----
