@@ -50,29 +50,11 @@ h2 {
 }
 
 .paper-links a {
-  color: #aec3b0;          /* light green */
+  color: #222;        /* soft black */
   font-weight: 500;
 }
 
 .paper-links a:hover {
-  color: #7fa694;          /* darker green on hover */
+  color: #000;        /* true black on hover */
   text-decoration: underline;
-}
-
-/* =========================
-   About page: wider sidebar
-   ========================= */
-@media (min-width: 64em) {
-  body.about .page__inner-wrap {
-    display: grid !important;
-    grid-template-columns: 600px 1fr !important; /* ← sidebar width */
-    column-gap: 3rem;
-    align-items: start;
-  }
-
-  body.about .sidebar,
-  body.about .sidebar.sticky {
-    width: auto !important;
-    max-width: none !important;
-  }
 }
