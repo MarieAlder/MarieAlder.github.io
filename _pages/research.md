@@ -14,7 +14,7 @@ redirect_from:
 
 _with Nuno Coimbra and Urszula Szczerbowicz_
 
-<span class="paper-links">
+<span class="paper-links" style="font-size: 0.9em;">
   [<a href="https://www.banque-france.fr/en/publications-and-statistics/publications/corporate-debt-structure-and-heterogeneous-monetary-policy-transmission">BdF Working Paper 933</a>]
   [<a href="https://cepr.org/publications/dp18787">CEPR Discussion Paper</a>]
   [<a href="https://cepr.org/voxeu/columns/firms-debt-structure-matters-monetary-policy-transmission">VoxEU</a>]
@@ -38,7 +38,7 @@ _Presented at EABCN Conference: New Challenges in Monetary Economics 2024 (poste
 
 _with Eva Franzmeyer and Benjamin Hattemer_
 
-<span class="paper-links">
+<span class="paper-links" style="font-size: 0.9em;">
   [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5521119">Draft</a>]
 </span>
 
