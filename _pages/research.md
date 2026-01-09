@@ -8,7 +8,7 @@ redirect_from:
   - /resume
 ---
 
-<span style="color:#598392;">## Working Papers</span>
+## Working Papers
 
 <span style="color:#aec3b0;">**Corporate Debt Structure and Heterogeneous Monetary Policy Transmission**</span>
 
@@ -52,7 +52,7 @@ _Presented at Onzième Conférence Évaluation des Politiques Publiques_
 
 ---
 
-<span style="color:#598392;">## Work in Progress</span>
+## Work in Progress
 
 <span style="color:#aec3b0;">**Firm Dynamics in Europe: Insights into Growth, Financial Distress, and Exit Risks**</span>
 
