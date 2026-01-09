@@ -10,7 +10,7 @@ redirect_from:
 
 ## Working Papers
 
-<span style="color:#aec3b0;">**Corporate Debt Structure and Heterogeneous Monetary Policy Transmission**</span>
+<span style="color:#aec3b0;">**Corporate Debt Structure and Heterogeneous Monetary Policy Transmission**</span><br>
 _with Nuno Coimbra and Urszula Szczerbowicz_
 
 <span class="paper-links" style="font-size: 0.9em;">
@@ -33,7 +33,7 @@ _Presented at EABCN Conference: New Challenges in Monetary Economics 2024 (poste
 
 ---
 
-<span style="color:#aec3b0;">**From Free to Fee: How Allowance Allocation Affects ETS Performance**</span>
+<span style="color:#aec3b0;">**From Free to Fee: How Allowance Allocation Affects ETS Performance**</span><br>
 _with Eva Franzmeyer and Benjamin Hattemer_
 
 <span class="paper-links" style="font-size: 0.9em;">
@@ -56,7 +56,7 @@ _Presented at Onzième Conférence Évaluation des Politiques Publiques_
 
 ## Work in Progress
 
-<span style="color:#aec3b0;">**Firm Dynamics in Europe: Insights into Growth, Financial Distress, and Exit Risks**</span>
+<span style="color:#aec3b0;">**Firm Dynamics in Europe: Insights into Growth, Financial Distress, and Exit Risks**</span><br>
 _with Susana Parraga Rodriguez and Ralph Setzer_
 
 ---
