@@ -44,19 +44,12 @@ h2 {
   color: #598392;
 }
 
-.page__content .paper-links {
-  font-size: 0.9em;        /* smaller than body text */
-  color: #aec3b0;          /* color for [ and ] */
-}
-
-.page__content .paper-links a:link,
-.page__content .paper-links a:visited {
-  color: #aec3b0 !important;
+.paper-links a {
+  color: #aec3b0;          /* light green */
   font-weight: 500;
 }
 
-.page__content .paper-links a:hover,
-.page__content .paper-links a:focus {
-  color: #7fa694 !important;
+.paper-links a:hover {
+  color: #7fa694;          /* darker green on hover */
   text-decoration: underline;
 }
