@@ -29,7 +29,7 @@ _with Nuno Coimbra and Urszula Szczerbowicz_
 
 _Presented at EABCN Conference: New Challenges in Monetary Economics 2024 (poster), JIE Summer School 2024 (poster), Workshop on New insights from financial statements 2024, 3rd XAmsterdam Macroeconomic Workshop._
 
-
+---
 
 **From Free to Fee: How Allowance Allocation Affects ETS Performance**
 
