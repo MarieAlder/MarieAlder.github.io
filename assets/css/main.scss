@@ -58,3 +58,21 @@ h2 {
   color: #7fa694;          /* darker green on hover */
   text-decoration: underline;
 }
+
+/* =========================
+   About page: wider sidebar
+   ========================= */
+@media (min-width: 64em) {
+  body.about .page__inner-wrap {
+    display: grid !important;
+    grid-template-columns: 520px 1fr !important; /* ← sidebar width */
+    column-gap: 3rem;
+    align-items: start;
+  }
+
+  body.about .sidebar,
+  body.about .sidebar.sticky {
+    width: auto !important;
+    max-width: none !important;
+  }
+}
