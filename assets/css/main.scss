@@ -65,7 +65,7 @@ h2 {
 @media (min-width: 64em) {
   body.about .page__inner-wrap {
     display: grid !important;
-    grid-template-columns: 520px 1fr !important; /* ← sidebar width */
+    grid-template-columns: 600px 1fr !important; /* ← sidebar width */
     column-gap: 3rem;
     align-items: start;
   }
