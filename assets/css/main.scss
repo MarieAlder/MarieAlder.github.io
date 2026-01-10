@@ -59,4 +59,15 @@ h2 {
   text-decoration: underline;
 }
 
+/* Coauthor links: same color as surrounding text */
+.page__content em a,
+.page__content i a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.page__content em a:hover,
+.page__content i a:hover {
+  text-decoration: underline; /* optional */
+}
 
