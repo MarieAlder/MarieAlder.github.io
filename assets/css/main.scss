@@ -46,27 +46,15 @@ $sidebar-width-narrow: 360px;
 @import "print";
 
 h2 {
-  color: #598392;
+  color: #4a5759;
 }
 
 .paper-links a {
-  color: #adb5bd;
+  color: #dedbd2;
   font-weight: 500;
 }
 
 .paper-links a:hover {
-  color: #adb5bd;
+  color: #dedbd2;
   text-decoration: underline;
-}
-
-.page__content em a,
-.page__content em a:visited {
-  color: inherit !important;
-  text-decoration: none;
-}
-
-.page__content em a:hover,
-.page__content em a:focus {
-  color: inherit !important;
-  text-decoration: underline; /* optional */
 }

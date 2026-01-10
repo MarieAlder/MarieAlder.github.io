@@ -10,8 +10,7 @@ redirect_from:
 
 ## Working Papers
 
-<span style="color:#aec3b0;">**Corporate Debt Structure and Heterogeneous Monetary Policy Transmission**</span><br>
-
+<span style="color:#b0c4b1;">**Corporate Debt Structure and Heterogeneous Monetary Policy Transmission**</span><br>
 <em class="paper-links">
   with
   <a href="https://sites.google.com/site/ntcoimbra/home">Nuno Coimbra</a>
@@ -19,7 +18,7 @@ redirect_from:
   <a href="https://sites.google.com/site/urszulaszczerbowicz/">Urszula Szczerbowicz</a>
 </em>
 
-<span class="paper-links" style="font-size: 0.9em;">
+<span class="paper-links" style="font-size: 0.8em;">
   [<a href="https://www.banque-france.fr/en/publications-and-statistics/publications/corporate-debt-structure-and-heterogeneous-monetary-policy-transmission">BdF Working Paper 933</a>]
   [<a href="https://cepr.org/publications/dp18787">CEPR Discussion Paper</a>]
   [<a href="https://cepr.org/voxeu/columns/firms-debt-structure-matters-monetary-policy-transmission">VoxEU</a>]
@@ -39,10 +38,15 @@ _Presented at EABCN Conference: New Challenges in Monetary Economics 2024 (poste
 
 ---
 
-<span style="color:#aec3b0;">**From Free to Fee: How Allowance Allocation Affects ETS Performance**</span><br>
-_with [Eva Franzmeyer](https://franzeva.github.io/) and [Benjamin Hattemer](https://benjaminhattemer.com/)_
+<span style="color:#b0c4b1;">**From Free to Fee: How Allowance Allocation Affects ETS Performance**</span><br>
+<em class="paper-links">
+  with
+  <a href="https://franzeva.github.io/">Eva Franzmeyer</a>
+  and
+  <a href="https://benjaminhattemer.com/">Benjamin Hattemer</a>
+</em>
 
-<span class="paper-links" style="font-size: 0.9em;">
+<span class="paper-links" style="font-size: 0.8em;">
   [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5521119">Draft</a>]
 </span>
 
@@ -62,7 +66,12 @@ _Presented at Onzième Conférence Évaluation des Politiques Publiques_
 
 ## Work in Progress
 
-<span style="color:#aec3b0;">**Firm Dynamics in Europe: Insights into Growth, Financial Distress, and Exit Risks**</span><br>
-_with [Susana Parraga Rodriguez](https://sites.google.com/view/susanaparraga) and [Ralph Setzer](https://www.ecb.europa.eu/pub/research/authors/profiles/ralph-setzer.en.html)_
+<span style="color:#b0c4b1;">**Firm Dynamics in Europe: Insights into Growth, Financial Distress, and Exit Risks**</span><br>
+<em class="paper-links">
+  with
+  <a href="https://sites.google.com/view/susanaparraga">Susana Parraga Rodriguez</a>
+  and
+  <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/ralph-setzer.en.html/">Ralph Setzer</a>
+</em>
 
 ---
