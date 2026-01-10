@@ -11,7 +11,13 @@ redirect_from:
 ## Working Papers
 
 <span style="color:#aec3b0;">**Corporate Debt Structure and Heterogeneous Monetary Policy Transmission**</span><br>
-_with [Nuno Coimbra](https://sites.google.com/site/ntcoimbra/home) and [Urszula Szczerbowicz](https://sites.google.com/site/urszulaszczerbowicz/)_
+
+<em class="paper-links">
+  with
+  <a href="https://sites.google.com/site/ntcoimbra/home">Nuno Coimbra</a>
+  and
+  <a href="https://sites.google.com/site/urszulaszczerbowicz/">Urszula Szczerbowicz</a>
+</em>
 
 <span class="paper-links" style="font-size: 0.9em;">
   [<a href="https://www.banque-france.fr/en/publications-and-statistics/publications/corporate-debt-structure-and-heterogeneous-monetary-policy-transmission">BdF Working Paper 933</a>]
