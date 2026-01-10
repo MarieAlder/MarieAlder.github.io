@@ -34,7 +34,7 @@ _Presented at EABCN Conference: New Challenges in Monetary Economics 2024 (poste
 ---
 
 <span style="color:#aec3b0;">**From Free to Fee: How Allowance Allocation Affects ETS Performance**</span><br>
-_with Eva Franzmeyer and Benjamin Hattemer_
+_with [Eva Franzmeyer](https://franzeva.github.io/) and [Benjamin Hattemer](https://benjaminhattemer.com/)_
 
 <span class="paper-links" style="font-size: 0.9em;">
   [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5521119">Draft</a>]
@@ -57,6 +57,6 @@ _Presented at Onzième Conférence Évaluation des Politiques Publiques_
 ## Work in Progress
 
 <span style="color:#aec3b0;">**Firm Dynamics in Europe: Insights into Growth, Financial Distress, and Exit Risks**</span><br>
-_with Susana Parraga Rodriguez and Ralph Setzer_
+_with [Susana Parraga Rodriguez](https://sites.google.com/view/susanaparraga) and [Ralph Setzer](https://www.ecb.europa.eu/pub/research/authors/profiles/ralph-setzer.en.html)_
 
 ---
