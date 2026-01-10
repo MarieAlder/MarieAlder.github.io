@@ -10,7 +10,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Researcher in Economics at the European University Institute. My supervisors are Alexander Monge-Naranjo and Giancarlo Corsetti.
+I am a Ph.D. Researcher in Economics at the European University Institute. My supervisors are <span class="paper-links">
+  <a href="https://alexandermonge.com/about-me/">Alexander Monge-Naranjo</a>
+</span> and <span class="paper-links">
+  <a href="https://sites.google.com/site/giancarlocorsetti/">Giancarlo Corsetti</a>
+</span>.
 
 My research interests are in Macroeconomics, Monetary Economics and Environmental Economics, with a particular focus on Firm Heterogeneity and Firm Dynamics.
 
