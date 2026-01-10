@@ -50,24 +50,23 @@ h2 {
 }
 
 .paper-links a {
-  color: #9a9a9a;
+  color: #eff6e0;
   font-weight: 500;
 }
 
 .paper-links a:hover {
-  color: #777;
+  color: #eff6e0;
   text-decoration: underline;
 }
 
-/* Coauthor links: same color as surrounding text */
 .page__content em a,
-.page__content i a {
-  color: inherit;
+.page__content em a:visited {
+  color: inherit !important;
   text-decoration: none;
 }
 
 .page__content em a:hover,
-.page__content i a:hover {
+.page__content em a:focus {
+  color: inherit !important;
   text-decoration: underline; /* optional */
 }
-
