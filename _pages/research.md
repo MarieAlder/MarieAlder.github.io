@@ -18,7 +18,7 @@ redirect_from:
   <a href="https://sites.google.com/site/urszulaszczerbowicz/">Urszula Szczerbowicz</a>
 </em>
 
-<span class="paper-links" style="font-size: 0.8em;">
+<span class="paper-links">
   [<a href="https://www.banque-france.fr/en/publications-and-statistics/publications/corporate-debt-structure-and-heterogeneous-monetary-policy-transmission">BdF Working Paper 933</a>]
   [<a href="https://cepr.org/publications/dp18787">CEPR Discussion Paper</a>]
   [<a href="https://cepr.org/voxeu/columns/firms-debt-structure-matters-monetary-policy-transmission">VoxEU</a>]
@@ -46,7 +46,7 @@ _Presented at EABCN Conference: New Challenges in Monetary Economics 2024 (poste
   <a href="https://benjaminhattemer.com/">Benjamin Hattemer</a>
 </em>
 
-<span class="paper-links" style="font-size: 0.8em;">
+<span class="paper-links">
   [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5521119">Draft</a>]
 </span>
 
