@@ -38,7 +38,7 @@ _Presented at EABCN Conference: New Challenges in Monetary Economics 2024 (poste
 
 ---
 
-<span style="color:#b0c4b1;">**From Free to Fee: How Allowance Allocation Affects ETS Performance**</span><br>
+<span style="color:#b0c4b1;">**From Free to Fee: How Emission Permit Allocation Affects Firms**</span><br>
 <em class="paper-links">
   with
   <a href="https://franzeva.github.io/">Eva Franzmeyer</a>
