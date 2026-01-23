@@ -58,3 +58,25 @@ h2 {
   color: #495057;
   text-decoration: underline;
 }
+
+/* About page photo (inline, left) */
+.about-photo {
+  float: left;
+  width: 260px;          /* adjust size */
+  max-width: 40%;
+  height: auto;
+  margin: 0 2rem 1rem 0;
+
+  border-radius: 0;     /* square */
+  border: none;
+}
+
+/* Mobile: stack photo above text */
+@media (max-width: 64em) {
+  .about-photo {
+    float: none;
+    display: block;
+    max-width: 100%;
+    margin: 0 auto 1.5rem;
+  }
+}

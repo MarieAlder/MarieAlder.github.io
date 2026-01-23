@@ -3,12 +3,17 @@ permalink: /
 layout: about
 title: "Welcome!"
 excerpt: "About me"
-author_profile: true
+author_profile: false
 classes: about
 redirect_from:
   - /about/
   - /about.html
 ---
+
+<img
+  src="{{ '/assets/images/profile.png' | relative_url }}"
+  alt="Marie Alder"
+  class="about-photo">
 
 I am a Ph.D. Researcher in Economics at the European University Institute. My supervisors are <span class="paper-links">
   <a href="https://alexandermonge.com/about-me/">Alexander Monge-Naranjo</a>
