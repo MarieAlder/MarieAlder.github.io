@@ -80,3 +80,20 @@ h2 {
     margin: 0 auto 1.5rem;
   }
 }
+
+/* ===============================
+   Minimal author_profile sidebar
+   =============================== */
+@media (min-width: 64em) {
+
+  .layout--single .sidebar,
+  .layout--single .sidebar.sticky {
+    width: 180px !important;
+    max-width: 180px !important;
+  }
+
+  .layout--single .archive,
+  .layout--single .page__content {
+    width: calc(100% - 180px) !important;
+  }
+}
