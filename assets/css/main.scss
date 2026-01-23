@@ -84,16 +84,21 @@ h2 {
 /* ===============================
    Minimal author_profile sidebar
    =============================== */
+   
 @media (min-width: 64em) {
-
-  .layout--single .sidebar,
-  .layout--single .sidebar.sticky {
-    width: 180px !important;
-    max-width: 180px !important;
+  .layout--single .page__inner-wrap {
+    display: grid !important;
+    grid-template-columns: 180px minmax(0, 1fr) !important; /* <- sidebar width */
+    column-gap: 2rem;
+    align-items: start;
   }
 
-  .layout--single .archive,
-  .layout--single .page__content {
-    width: calc(100% - 180px) !important;
+  /* Disable Susy float widths so grid can take over */
+  .layout--single .sidebar,
+  .layout--single .sidebar.sticky,
+  .layout--single .archive {
+    float: none !important;
+    width: auto !important;
+    max-width: none !important;
   }
 }
