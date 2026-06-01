@@ -68,7 +68,7 @@ _Presented at Onzième Conférence Évaluation des Politiques Publiques_
 
 <span style="color:#b0c4b1;">**Firm Dynamics in Europe: Insights into Growth, Financial Distress, and Exit Risks**</span><br>
 <em class="paper-links">
-  with
+  with Yuri Filippone,
   <a href="https://sites.google.com/view/susanaparraga">Susana Parraga Rodriguez</a>
   and
   <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/ralph-setzer.en.html/">Ralph Setzer</a>
