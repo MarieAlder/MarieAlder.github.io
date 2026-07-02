@@ -66,7 +66,14 @@ _Presented at Onzième Conférence Évaluation des Politiques Publiques_
 
 ## Work in Progress
 
-<span style="color:#b0c4b1;">**Firm Dynamics in Europe: Insights into Growth, Financial Distress, and Exit Risks**</span><br>
+<span style="color:#b0c4b1;">**Greening the Frontier: Climate Policy and High-Quality Innovation**</span><br>
+<em class="paper-links">
+  with Lucas Arden and Ambre Kutten
+</em>
+
+---
+
+<span style="color:#b0c4b1;">**Monetary Policy and Firm Dynamics in Europe: Insights into Growth, Distress, and Exit Risks**</span><br>
 <em class="paper-links">
   with Yuri Filippone,
   <a href="https://sites.google.com/view/susanaparraga">Susana Parraga Rodriguez</a>
