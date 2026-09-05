@@ -81,6 +81,33 @@ h2 {
   }
 }
 
+/* Photo and copy as two columns, so every paragraph -- including the closing
+   disclaimer -- stays beside the photo instead of wrapping under it. Below
+   64em the flex layout is off and the photo stacks above the text as before. */
+@media (min-width: 64em) {
+  .about-intro {
+    display: flex;
+    align-items: flex-start;
+    gap: 2rem;
+  }
+
+  .about-intro .about-photo {
+    flex: 0 0 260px;
+    float: none;
+    max-width: none;
+    margin: 0;
+  }
+
+  .about-intro__text {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+
+  .about-intro__text > *:first-child {
+    margin-top: 0;
+  }
+}
+
 /* ===============================
    Minimal author_profile sidebar
    =============================== */
