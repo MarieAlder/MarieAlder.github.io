@@ -20,7 +20,7 @@ redirect_from:
 
 <span class="paper-links">
   [<a href="https://www.banque-france.fr/en/publications-and-statistics/publications/corporate-debt-structure-and-heterogeneous-monetary-policy-transmission">BdF Working Paper 933</a>]
-  [<a href="https://cepr.org/publications/dp18787">CEPR Discussion Paper</a>]
+  [<a href="https://cepr.org/publications/dp18787">CEPR Discussion Paper 18787</a>]
   [<a href="https://cepr.org/voxeu/columns/firms-debt-structure-matters-monetary-policy-transmission">VoxEU</a>]
 </span>
 
@@ -66,14 +66,16 @@ _Presented at Onzième Conférence Évaluation des Politiques Publiques_
 
 ## Work in Progress
 
-<span style="color:#b0c4b1;">**Greening the Frontier: Climate Policy and High-Quality Innovation**</span><br>
+<span style="color:#b0c4b1;">**From Carbon Pricing to Green Innovation: The Firm-Level Transmission of Carbon Policy Shocks**</span><br>
 <em class="paper-links">
   with Lucas Arden and Ambre Kutten
 </em>
 
+_Presented at JIE Summer School 2026 (poster)_
+
 ---
 
-<span style="color:#b0c4b1;">**Monetary Policy and Firm Dynamics in Europe: Insights into Growth, Distress, and Exit Risks**</span><br>
+<span style="color:#b0c4b1;">**Monetary Policy, Firm States, and Investment Dynamics in the Euro Area**</span><br>
 <em class="paper-links">
   with Yuri Filippone,
   <a href="https://sites.google.com/view/susanaparraga">Susana Parraga Rodriguez</a>
