@@ -15,7 +15,7 @@ redirect_from:
   alt="Marie Alder"
   class="about-photo">
 
-I am a Ph.D. Researcher in Economics at the European University Institute. My supervisors are <span class="paper-links">
+I am a Graduate Programme participant in the Monetary Analysis Division of the Directorate General Monetary Policy at the European Central Bank and a PhD candidate in Economics at the European University Institute. My supervisors are <span class="paper-links">
   <a href="https://alexandermonge.com/about-me/">Alexander Monge-Naranjo</a>
 </span> and <span class="paper-links">
   <a href="https://sites.google.com/site/giancarlocorsetti/">Giancarlo Corsetti</a>
@@ -23,4 +23,5 @@ I am a Ph.D. Researcher in Economics at the European University Institute. My su
 
 My research interests are in Macroeconomics, Monetary Economics and Environmental Economics, with a particular focus on Firm Heterogeneity and Firm Dynamics.
 
-Get in touch: marie.alder@eui.eu
+_All views expressed on this site are my own and do not necessarily reflect the views of the ECB or the Eurosystem._
+---
