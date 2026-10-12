@@ -62,7 +62,7 @@ h2 {
 /* About page photo (inline, left) */
 .about-photo {
   float: left;
-  width: 260px;          /* adjust size */
+  width: 300px;          /* adjust size */
   max-width: 40%;
   height: auto;
   margin: 0 2rem 1rem 0;
@@ -92,7 +92,7 @@ h2 {
   }
 
   .about-intro .about-photo {
-    flex: 0 0 260px;
+    flex: 0 0 300px;
     float: none;
     max-width: none;
     margin: 0;
