@@ -23,7 +23,7 @@ I am a Graduate Programme participant in the Monetary Analysis Division of the D
   <a href="https://sites.google.com/site/giancarlocorsetti/">Giancarlo Corsetti</a>
 </span>.
 
-My research interests are in Macroeconomics, Monetary Economics and Environmental Economics, with a particular focus on Firm Heterogeneity and Firm Dynamics.
+My research interests are in Monetary Economics and Environmental Economics, with a particular focus on Firm Heterogeneity and Firm Dynamics.
 
 _All views expressed on this site are my own and do not necessarily reflect the views of the ECB or the Eurosystem._
 

@@ -15,7 +15,8 @@ redirect_from:
   with
   <a href="https://sites.google.com/site/ntcoimbra/home">Nuno Coimbra</a>
   and
-  <a href="https://sites.google.com/site/urszulaszczerbowicz/">Urszula Szczerbowicz</a>
+  <a href="https://sites.google.com/site/urszulaszczerbowicz/">Urszula Szczerbowicz</a>,
+  R&R at European Economic Review 
 </em>
 
 <span class="paper-links">
@@ -47,7 +48,7 @@ _Presented at EABCN Conference: New Challenges in Monetary Economics 2024 (poste
 </em>
 
 <span class="paper-links">
-  [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5521119">Draft</a>]
+  [<a href="https://cadmus.eui.eu/entities/publication/75f53a0f-c815-482a-819b-1444bc6b06c1">EUI Working Paper</a>]
 </span>
 
 <details class="Abstract">
