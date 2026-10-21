@@ -80,8 +80,7 @@ _Presented at JIE Summer School 2026 (poster)_
 <em class="paper-links">
   with Yuri Filippone,
   <a href="https://sites.google.com/view/susanaparraga">Susana Parraga Rodriguez</a>
-  and
-  <a href="https://www.ecb.europa.eu/pub/research/authors/profiles/ralph-setzer.en.html/">Ralph Setzer</a>
+  and Ralph Setzer
 </em>
 
 ---
