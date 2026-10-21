@@ -10,7 +10,7 @@ redirect_from:
 
 ## Working Papers
 
-<span style="color:#b0c4b1;">**Corporate Debt Structure and Heterogeneous Monetary Policy Transmission**</span><br>
+<span style="color:#b0c4b1; font-size:1.3em;">**Corporate Debt Structure and Heterogeneous Monetary Policy Transmission**</span><br>
 <em class="paper-links">
   with
   <a href="https://sites.google.com/site/ntcoimbra/home">Nuno Coimbra</a>
@@ -39,7 +39,7 @@ _Presented at EABCN Conference: New Challenges in Monetary Economics 2024 (poste
 
 ---
 
-<span style="color:#b0c4b1;">**From Free to Fee: How Emission Permit Allocation Affects Firms**</span><br>
+<span style="color:#b0c4b1; font-size:1.3em;">**From Free to Fee: How Emission Permit Allocation Affects Firms**</span><br>
 <em class="paper-links">
   with
   <a href="https://franzeva.github.io/">Eva Franzmeyer</a>
@@ -67,7 +67,7 @@ _Presented at Onzième Conférence Évaluation des Politiques Publiques_
 
 ## Work in Progress
 
-<span style="color:#b0c4b1;">**From Carbon Pricing to Green Innovation: The Firm-Level Transmission of Carbon Policy Shocks**</span><br>
+<span style="color:#b0c4b1; font-size:1.3em;">**From Carbon Pricing to Green Innovation: The Firm-Level Transmission of Carbon Policy Shocks**</span><br>
 <em class="paper-links">
   with Lucas Arden and Ambre Kutten
 </em>
@@ -76,7 +76,7 @@ _Presented at JIE Summer School 2026 (poster)_
 
 ---
 
-<span style="color:#b0c4b1;">**Monetary Policy, Firm States, and Investment Dynamics in the Euro Area**</span><br>
+<span style="color:#b0c4b1; font-size:1.3em;">**Monetary Policy, Firm States, and Investment Dynamics in the Euro Area**</span><br>
 <em class="paper-links">
   with Yuri Filippone,
   <a href="https://sites.google.com/view/susanaparraga">Susana Parraga Rodriguez</a>
